@@ -38,3 +38,6 @@ class Cart
     Item.find(id).price * count_of(id)
   end
 end
+#change 1
+#change 2
+#change 3
